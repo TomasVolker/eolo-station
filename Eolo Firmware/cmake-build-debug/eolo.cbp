@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="eolo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="control">
+				<Option working_dir="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 control"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clion">
+				<Option output="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./eolo/inc"/>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./modules/lpc4337_m4/freertos/inc"/>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./modules/lpc4337_m4/base/inc"/>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./modules/lpc4337_m4/board/inc"/>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./modules/lpc4337_m4/chip/inc"/>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./modules/lpc4337_m4/sapi/inc"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clion"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clion/fast">
+				<Option output="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./eolo/inc"/>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./modules/lpc4337_m4/freertos/inc"/>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./modules/lpc4337_m4/base/inc"/>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./modules/lpc4337_m4/board/inc"/>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./modules/lpc4337_m4/chip/inc"/>
+					<Add directory="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/./modules/lpc4337_m4/sapi/inc"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clion/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/percha/FIUBA/Seminario\ de\ Sistemas\ Embebidos/TP\ Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/Eeprom.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/FreeRTOSConfig.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/control.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/gpio.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/http.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/log.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/main.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/modem.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/print.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/rain_sensor.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/rtc.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/string_utils.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/trigonometry.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/uart.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/utils.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/webservice.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/wind_direction_sensor.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/inc/wind_speed_sensor.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/Eeprom.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/control.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/gpio.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/http.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/log.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/main.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/modem.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/print.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/rain_sensor.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/rtc.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/string_utils.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/uart.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/webservice.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/wind_direction_sensor.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/eolo/src/wind_speed_sensor.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/base/src/cr_start_m0.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/base/src/cr_startup_lpc43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/base/src/sysinit.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/board/src/board.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/board/src/board_sysinit.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/board/src/lpc_phy_smsc87x0.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/board/src/mem_tests.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/board/src/retarget.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/adc_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/aes_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/atimer_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/ccan_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/chip_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/clock_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/dac_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/eeprom_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/emc_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/enet_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/evrt_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/fpu_init.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/gpdma_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/gpio_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/gpiogroup_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/hsadc_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/i2c_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/i2cm_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/i2s_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/iap_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/lcd_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/otp_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/pinint_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/pmc_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/ring_buffer.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/ritimer_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/rtc_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/sct_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/sct_pwm_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/sdif_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/sdio_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/sdmmc_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/spi_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/ssp_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/stopwatch_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/sysinit_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/timer_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/uart_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/chip/src/wwdt_18xx_43xx.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/freertos/src/FreeRTOSCommonHooks.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/freertos/src/croutine.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/freertos/src/event_groups.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/freertos/src/heap_4.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/freertos/src/list.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/freertos/src/port.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/freertos/src/queue.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/freertos/src/redlib_memfix.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/freertos/src/tasks.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/freertos/src/timers.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_7_segment_display.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_adc.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_board.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_dac.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_datatypes.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_delay.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_gpio.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_hmc5883l.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_i2c.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_keypad.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_pwm.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_rtc.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_sct.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_servo.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_sleep.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_spi.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_tick.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_timer.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/modules/lpc4337_m4/sapi/src/sapi_uart.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

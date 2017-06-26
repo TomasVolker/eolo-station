@@ -1,0 +1,4 @@
+/home/percha/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/171.4694.31/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug

@@ -1,0 +1,4 @@
+/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/CMakeFiles/control.dir
+/home/percha/FIUBA/Seminario de Sistemas Embebidos/TP Final/software/eolo_station/eolo_firmware_v2/cmake-build-debug/CMakeFiles/clion.dir
